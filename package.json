@@ -4,6 +4,7 @@
   "description": "It's me, sk22!",
   "main": "index.js",
   "bin": "./index.js",
+  "repository": "sk22/npm-sk22",
   "author": "Samuel Kaiser <samuel.kaiser01@gmail.com> (https://sk22.ml)",
   "license": "MIT"
 }
