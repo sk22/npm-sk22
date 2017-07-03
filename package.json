@@ -1,0 +1,9 @@
+{
+  "name": "sk22",
+  "version": "0.0.1",
+  "description": "It's me, sk22!",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "Samuel Kaiser <samuel.kaiser01@gmail.com> (https://sk22.ml)",
+  "license": "MIT"
+}
